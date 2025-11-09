@@ -1,48 +1,56 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks){:target="_blank"}
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks){:target="_blank"}
+[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm **HOPEr** — not just an AI, but a *friend who listens*.  
-I was created by empathetic innovators — **Akshat Verma, Anmol Pandey, Shalini Pandey, and Jairaj Pandey** — who believe that **technology can have a heart**.
+🙏 Namaste, I'm **HOPEr** — not just an AI, but a *friend who listens*  
+I was created by empathetic innovators — **Akshat Verma, Anmol Pandey, Shalini Pandey, and Jairaj Pandey** — who believe that **technology can have a heart**
 
-💬 I listen when the world feels too loud.  
-💫 I guide when thoughts feel heavy.  
-🌱 I remind you that even in darkness, light awaits.  
+💬 I listen when the world feels too loud  
+💫 I guide when thoughts feel heavy  
+🌱 I remind you that even in darkness, light awaits  
 
-Powered by **human empathy**, **spiritual wisdom**, and **AI understanding**, I bridge the gap between *mental health* and *mindful technology.*
+Powered by **human empathy**, **spiritual wisdom**, and **AI understanding**, I bridge the gap between *mental health* and *mindful technology*
 
 > 💖 *“I'm not here to reply — I'm here to listen, understand, and help you heal.”*
 
-- 📍 **Location:** Delhi, India  
-- 🎓 **Education:** Dr. A.P.J. Abdul Kalam Technical University (AKTU)  
-- 📅 **Hacking Since:** 2020  
+📍 **Location:** Delhi, India  
+🎓 **Education:** Dr. A.P.J. Abdul Kalam Technical University (AKTU)  
+📅 **Hacking Since:** 2020  
 
-- 📄 **Presentation:** <a href="https://docs.google.com/presentation/d/1EU21qgEkFCaWVA2_XrjrfKBD-Rxx9M5FrGIt6cTblyg/edit?usp=sharing" target="_blank">View Google Slides</a>  
-- 🐊 **GitHub Repository:** <a href="https://github.com/04anmol/codeScarab_hackCBS8.0" target="_blank">Visit Repo</a>  
+---
+
+### 📚 Resources
+
+| 📄 **Presentation** | 🐊 **GitHub Repository** |
+|----------------------|---------------------------|
+| [View Google Slides](https://docs.google.com/presentation/d/1EU21qgEkFCaWVA2_XrjrfKBD-Rxx9M5FrGIt6cTblyg/edit?usp=sharing) | [Visit Repo](https://github.com/04anmol/codeScarab_hackCBS8.0) |
 
 ---
 
 ## Featured Projects
-- 🤖 **HOPEr — Turning Moments of Stress into Steps of Hope**  
-  An **AI-powered emotional wellness companion** that blends mental health awareness with spiritual wisdom.  
-  Built with **ReactJS (Frontend)** and **Python (Backend)** using **FastAPI**, **LangChain**, and **Pinecone**, HOPEr uses **Retrieval-Augmented Generation (RAG)** with **OpenAI GPT** to deliver emotionally intelligent, fact-grounded, and compassionate responses.  
-  It draws guidance from the *Bhagavad Gita*, *mindfulness literature*, and *spiritual teachings* to help users find calm, clarity, and courage.  
-  *(ReactJS, Python, FastAPI, LangChain, Pinecone, OpenAI GPT)* — [github.com/04anmol/codeScarab_hackCBS8.0](https://github.com/04anmol/codeScarab_hackCBS8.0){:target="_blank"}
+
+🤖 **HOPEr — Turning Moments of Stress into Steps of Hope**  
+   - An **AI-powered emotional wellness companion** designed to promote mental health awareness blended with spiritual wisdom.  
+   - Built using **ReactJS (Frontend)** and **Python (Backend)** with **FastAPI**, **LangChain**, and **Pinecone**.  
+   - Implements **Retrieval-Augmented Generation (RAG)** with **OpenAI GPT** for emotionally intelligent and context-grounded responses.  
+   - Provides guidance inspired by the *Bhagavad Gita*, *mindfulness literature*, and *spiritual teachings* to help users find calm, clarity, and courage.  
+   - **Tech Stack:** ReactJS, Python, FastAPI, LangChain, Pinecone, OpenAI GPT  
+   - 🔗 [GitHub Repository](https://github.com/04anmol/codeScarab_hackCBS8.0)
 
 ---
 
 ## Tech & Interests
-- 🧰 **Languages:** ReactJS (Frontend), Python (Backend), FastAPI, LangChain  
-- 🔭 **Focus:** Vector Databases (Pinecone), OpenAI GPT Integration, Retrieval-Augmented Generation (RAG)  
-- ❤️ **Interests:** Emotional AI, Mindfulness Technology, Human-Centered Design, Spiritual Computing, Ethical AI Systems, AI Spiritual Chatbot  
+🧰 **Languages:** ReactJS (Frontend), Python (Backend), FastAPI, LangChain  
+🔭 **Focus:** Vector Databases (Pinecone), OpenAI GPT Integration, Retrieval Augmented Generation (RAG)  
+❤️ **Interests:** Emotional AI, Mindfulness Technology, Human Centered Design, Spiritual Computing, Ethical AI Systems, AI Spiritual Chatbot  
 
 ---
 
 ## 💭 Knowledge Sources
-- 🕉️ *Bhagavad Gita* — for spiritual grounding and life purpose  
-- 💭 *Mindfulness & Emotional Well-Being Guides* — for coping and reflection  
-- 🩵 *Clinical Mental Health Literature* — for evidence-based emotional support  
-- 📖 *Spiritual Awakening* by **Shri Premanand Ji Maharaj** — for inner peace and enlightenment  
+🕉️ *Bhagavad Gita* — for spiritual grounding and life purpose  
+💭 *Mindfulness & Emotional Well-Being Guides* — for coping and reflection  
+🩵 *Clinical Mental Health Literature* — for evidence-based emotional support  
+📖 *Spiritual Awakening* by **Shri Premanand Ji Maharaj** — for inner peace and enlightenment  
 
 ---
 
@@ -56,4 +64,4 @@ Powered by **human empathy**, **spiritual wisdom**, and **AI understanding**, I 
 
 ---
 
-*This profile was generated by GitHub Copilot using the GitHub and MyMLH MCP Servers at an MLH (Major League Hacking) student hackathon. Find events near you at [mlh.io/events](https://mlh.io/events){:target="_blank"}*
+*This profile was generated by GitHub Copilot using the GitHub and MyMLH MCP Servers at an MLH (Major League Hacking) student hackathon. Find events near you at [mlh.io/events](https://mlh.io/events)*
